@@ -1,3 +1,5 @@
+# This is a fork intended to resolve a temporary dependency. You should not rely on this package being available.
+
 # Nova Auditing User Fields
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/coreproc/nova-auditing-user-fields.svg?style=flat-square)](https://packagist.org/packages/coreproc/nova-auditing-user-fields)
